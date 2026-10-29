@@ -1,0 +1,6 @@
+{
+  "name": "@chatmaster/shared",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Placeholder for Zod schemas and shared types - scaffolded in a later iteration."
+}
